@@ -15,7 +15,7 @@ Goal: Practice using Git and GitHub while creating a page for our study group.
 - Checkout your new branch
 - Make changes
 - Push to your fork
-- Issue a pull request
+- Issue a pull request 🐷
 
 ### Create an Issue
 Think of something that needs to be worked on? Open a New Issue
